@@ -1,0 +1,6 @@
+{
+  "name": "CantaPitch - Treino de Afinação Vocal",
+  "description": "Jogo interativo de afinação e percepção musical com análise de voz em tempo real pelo microfone e prática com músicas customizadas.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
